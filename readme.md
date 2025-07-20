@@ -18,11 +18,21 @@
 
 ### 📦 安装
 
-1.  打开 VS Code。
-2.  按下 `Ctrl+P` (Windows/Linux) 或 `Cmd+P` (macOS) 打开命令面板。
-3.  输入 `ext install <你的发布者名称>.nordfox-enhanced-theme` 并按回车。
-4.  或者，在扩展市场搜索 `Nordfox Enhanced Theme` 并点击安装。
-5.  最后，在 `文件 > 首选项 > 颜色主题` 中选择 `Nordfox Enhanced`。
+此主题未在 VS Code 扩展商店发布，请按照以下步骤手动安装：
+
+1.  **下载主题**
+    *   从 GitHub 下载此项目 (点击 `Code` > `Download ZIP`) 并解压。
+
+2.  **找到 VS Code 扩展目录**
+    *   **Windows**: `%USERPROFILE%\.vscode\extensions`
+    *   **macOS & Linux**: `~/.vscode/extensions`
+
+3.  **复制主题文件夹**
+    *   将解压后的整个项目文件夹移动到 VS Code 的 `extensions` 目录中。
+
+4.  **激活主题**
+    *   重启 VS Code。
+    *   转到 `文件 > 首选项 > 颜色主题`，然后选择 `Nordfox Enhanced`。
 
 ### 📸 截图
 
@@ -44,11 +54,21 @@ This is a deeply customized version based on the [Nordfox](https://github.com/Sl
 
 ### 📦 Installation
 
-1.  Open VS Code.
-2.  Press `Ctrl+P` (Windows/Linux) or `Cmd+P` (macOS) to open the command palette.
-3.  Enter `ext install <Your-Publisher-Name>.nordfox-enhanced-theme` and press Enter.
-4.  Alternatively, search for `Nordfox Enhanced Theme` in the Extensions Marketplace and click install.
-5.  Finally, select `Nordfox Enhanced` in `File > Preferences > Color Theme`.
+This theme is not published to the VS Code Marketplace. Please follow these steps to install it manually:
+
+1.  **Download the Theme**
+    *   Download this project from GitHub (click `Code` > `Download ZIP`) and unzip it.
+
+2.  **Find the VS Code Extensions Folder**
+    *   **Windows**: `%USERPROFILE%\.vscode\extensions`
+    *   **macOS & Linux**: `~/.vscode/extensions`
+
+3.  **Copy the Theme Folder**
+    *   Move the entire unzipped project folder into the VS Code `extensions` directory.
+
+4.  **Activate the Theme**
+    *   Restart VS Code.
+    *   Go to `File > Preferences > Color Theme` and select `Nordfox Enhanced`.
 
 ### 📸 Screenshots
 
