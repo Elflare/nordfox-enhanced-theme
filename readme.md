@@ -6,7 +6,7 @@
 
 ## 中文
 
-这是一个基于 [Nordfox](https://github.com/SleekyPython/Nordfox) 主题的深度定制版本，旨在提供极致的代码阅读体验。
+这是一个基于 [Nordfox](https://github.com/keifererikson/vscode-nightfox) 主题的深度定制版本，旨在提供极致的代码阅读体验。
 
 ### ✨ 特性
 
@@ -43,7 +43,7 @@
 
 ## English
 
-This is a deeply customized version based on the [Nordfox](https://github.com/SleekyPython/Nordfox) theme, aiming to provide the ultimate code reading experience.
+This is a deeply customized version based on the [Nordfox](https://github.com/keifererikson/vscode-nightfox) theme, aiming to provide the ultimate code reading experience.
 
 ### ✨ Features
 
