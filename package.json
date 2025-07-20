@@ -1,0 +1,23 @@
+{
+  "name": "nordfox-enhanced",
+  "displayName": "Nordfox Enhanced",
+  "description": "A theme based on Nordfox with enhanced semantic highlighting for better code readability.",
+  "version": "1.0.0",
+  "publisher": "Elflare",
+  "private": true,
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordfox Enhanced",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nordfox-enhanced-theme.json"
+      }
+    ]
+  }
+}
