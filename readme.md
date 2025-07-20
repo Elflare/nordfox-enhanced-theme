@@ -34,9 +34,10 @@
     *   重启 VS Code。
     *   转到 `文件 > 首选项 > 颜色主题`，然后选择 `Nordfox Enhanced`。
 
-### 📸 截图
 
-*（在此处添加你的主题截图）*
+### 🙏 致谢
+
+非常感谢原始的 [Nightfox](https://github.com/keifererikson/vscode-nightfox) 主题，本主题基于它进行开发。
 
 ---
 
@@ -70,15 +71,12 @@ This theme is not published to the VS Code Marketplace. Please follow these step
     *   Restart VS Code.
     *   Go to `File > Preferences > Color Theme` and select `Nordfox Enhanced`.
 
-### 📸 Screenshots
-
-*(Add your theme screenshots here)*
 
 ---
 
 ### 🙏 Acknowledgements
 
-A big thank you to the original [Nordfox](https://github.com/SleekyPython/Nordfox) theme, which this theme is based on.
+A big thank you to the original [Nightfox](https://github.com/keifererikson/vscode-nightfox) theme, which this theme is based on.
 
 ### 📄 License
 
